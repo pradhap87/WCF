@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+@using (Html.BeginForm())
+{
+<div class="row">
+    <div class="col-md-4">
+        <h2>Invoke Http Request</h2>
+        <p>
+            <input value="TCP" id="btnTCP" type="submit" formaction="Home/TCP"  class="form-control" />
+        </p>       
+    </div>
+    <div class="col-md-4">
+        <h2>Invoke TCP Request</h2>
+        <input value="Http" id="btnHttp" type="submit" formaction="Home/Http" class="form-control" />
+    </div>
+</div>
+}

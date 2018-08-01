@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FSD_WCF_Service.Service1" CodeBehind="HellowService.svc.cs" %>

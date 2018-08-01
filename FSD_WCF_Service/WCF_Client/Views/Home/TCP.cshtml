@@ -1,0 +1,33 @@
+﻿@model WCF_Client.Models.HellowVM
+
+@{
+    ViewBag.Title = "TCP";
+}
+
+<h2>TCP</h2>
+
+<div>    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SayHello)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SayHello)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.TodayProgram)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TodayProgram)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

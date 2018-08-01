@@ -1,0 +1,18 @@
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\Host.exe.config
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\Host.exe
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\Host.pdb
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.dll
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.pdb
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.dll.config
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\obj\Debug\Host.exe
+c:\users\436812\documents\visual studio 2017\Projects\FSD_WCF_Service\Host\obj\Debug\Host.pdb
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\Host.exe.config
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\Host.exe
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\Host.pdb
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.dll
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.pdb
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\bin\Debug\FSD_WCF_Service.dll.config
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\obj\Debug\Host.csprojResolveAssemblyReference.cache
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\obj\Debug\Host.exe
+D:\Development_Avecto\FSD\Hands-on\WCF\FSD_WCF_Service\Host\obj\Debug\Host.pdb
